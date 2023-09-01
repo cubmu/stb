@@ -96,7 +96,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d418.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Si0yCfg.png?v=1.1.1.1" group-title="tvN150N" tvg-id="BeritaSatu.id" tvg-name="Berita Satu", BTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrkEXrh.png?v=1.1.1.1" group-title="tvN150N" tvg-id="BeritaSatu.id" tvg-name="Berita Satu", BTV
 https://newanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eLjHSKm.png?v=1.0.0.1" group-title="tvN150N" tvg-id="NusantaraTV.id" tvg-name="Nusantara TV", Nusantara TV

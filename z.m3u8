@@ -181,22 +181,22 @@ http://khano.nng.cloudns.us/live/m3u8/id/026f46e9812825d.m3u8
 
 ########################################################      Kids     ########################################################
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xd_oAtf9Cp8/Ya2FqnhXjyI/AAAAAAAABho/Cjkvk02LkZMGwJblb4pjooetXksh4pibgCNcBGAsYHQ/s0/uAHJS7W.png?v=1.0.0.1" group-title="Kids" tvg-id="AstroCeria" tvg-name="Astro Ceria HD", Astro Ceria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uAHJS7W.png?v=1.0.0.1" group-title="Kids" tvg-id="AstroCeria" tvg-name="Astro Ceria HD", Astro Ceria
 http://khano.nng.cloudns.us/live/m3u8/op/7335edf66aba711.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fVZ-RFDgvgU/Ya2GE8Nu53I/AAAAAAAABhw/RSF4Ko7F6dotLnmim-pCYp4OYQnfAIa_QCNcBGAsYHQ/s0/xnK3XBL.png?v=1.0.0.1" group-title="Kids" tvg-id="BabyTVAsia.uk" tvg-name="BabyTV", Baby TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xnK3XBL.png?v=1.0.0.1" group-title="Kids" tvg-id="BabyTVAsia.uk" tvg-name="BabyTV", Baby TV
 https://anevia114.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vJxjuENDD0c/Ya2IRq6qp9I/AAAAAAAABiA/VuqUr6JNxSE7iFxZtYldJhL-J0XxksDHQCNcBGAsYHQ/s0/OrEXAse.png?v=1.0.0.1" group-title="Kids" tvg-id="Cartoon Network" tvg-name="Cartoon Network", Cartoon Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids" tvg-id="Cartoon Network" tvg-name="Cartoon Network", Cartoon Network
 http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CrKQnVncxv0/Ya2IkFPkieI/AAAAAAAABiI/0HgH9-I_NIAt3rGInThAP9dbSMQ7jQj3gCNcBGAsYHQ/s0/Dy7OlLF.png?v=1.0.0.1" group-title="Kids" tvg-id="CBeebiesAsia.uk" tvg-name="CBeebies", CBeebies HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dy7OlLF.png?v=1.0.0.1" group-title="Kids" tvg-id="CBeebiesAsia.uk" tvg-name="CBeebies", CBeebies HD
 https://anevia114.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

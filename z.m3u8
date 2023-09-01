@@ -596,25 +596,25 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg235production/ch3300/index
 
 ########################################################     RADIO     ########################################################
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/93cFv35.png?v=1.0.0.1" group-title="Radio", mbah nunung Online
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93cFv35.png?v=1.0.0.1" group-title="Radio", mbah nunung Online
 https://stream.zeno.fm/n4gzbe9ufzzuv
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EdYYUt2.png?v=1.0.0.1" group-title="Radio", Radio Bintang Tenggara
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdYYUt2.png?v=1.0.0.1" group-title="Radio", Radio Bintang Tenggara
 https://cast4.mbahnunungonline.net/radio/8360/rbtfm
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XgrBSh3.png?v=1.0.0.1" group-title="Fashion" tvg-id="FashionTVAsia.fr" tvg-name="FashionTV", FashionTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XgrBSh3.png?v=1.0.0.1" group-title="Fashion" tvg-id="FashionTVAsia.fr" tvg-name="FashionTV", FashionTV
 https://dl.dropbox.com/s/seta5w6k1az7rco/fb8acef7631528b.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/LQqABbX.png?v=1.0.0.1" group-title="Fashion" tvg-id="FashionTVMidnightSecrets.fr" tvg-name="Fashion TV Midnight Secrets", Fashion TV Midnight Secrets
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQqABbX.png?v=1.0.0.1" group-title="Fashion" tvg-id="FashionTVMidnightSecrets.fr" tvg-name="Fashion TV Midnight Secrets", Fashion TV Midnight Secrets
 http://khano.nng.cloudns.us/live/m3u8/fs/700a192f4d09364.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cvjkPbSvkFA/YanuggpdVQI/AAAAAAAABfM/lsfvZP81ZsoObtSVqjpUwTVq2UxXutY6gCNcBGAsYHQ/s0/7cLsY1Q.png?v=1.0.0.1" group-title="VISION+" tvg-id="OKTV.id" tvg-name="OK TV", OKTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cLsY1Q.png?v=1.0.0.1" group-title="VISION+" tvg-id="OKTV.id" tvg-name="OK TV", OKTV
 https://anevia114.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6oVldHiV5zY/YanttPV_G4I/AAAAAAAABfE/xkUFGeFoIHcYnUjOSGSC5JdI2W0Isg0wwCNcBGAsYHQ/s0/jzE4Vfd.png?v=1.0.0.1" group-title="VISION+" tvg-id="VisionPrime.id" tvg-name="Vision Prime", Vision Prime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jzE4Vfd.png?v=1.0.0.1" group-title="VISION+" tvg-id="VisionPrime.id" tvg-name="Vision Prime", Vision Prime
 https://anevia114.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

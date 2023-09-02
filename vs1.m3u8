@@ -761,16 +761,16 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XgrBSh3.png?v=1.0.0.1" group-title="Fashion" tvg-id="FashionTVAsia.fr" tvg-name="FashionTV", FashionTV
 http://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XgrBSh3.png?v=1.0.0.1" group-title="Fashion" tvg-id="FashionTV HD" tvg-name="FashionTV HD", FashionTV HD
-https://warningfm.github.io/v2/live/m3u8/fs/700a192f4d09363.m3u8
+http://khano.nng.cloudns.us/live/m3u8/fs/fb8acef7631528b.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/OsbTFpv.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests" tvg-id="FashionTVMidnightSecrets.fr" tvg-name="Fashion TV Midnight Secrets", Fashion TV Midnight Secrets
+http://khano.nng.cloudns.us/live/m3u8/fs/700a192f4d09364.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8X9FDe3.png?v=1.0.0.1" group-title="Fashion", Global Fashion Channel
-https://warningfm.github.io/v2/live/m3u8/fs/364bfe25097b976.m3u8
+http://khano.nng.cloudns.us/live/m3u8/fs/364bfe25097b976.m3u8
 
 ########################################################    Adult Lifestyle    ########################################################
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/OsbTFpv.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests" tvg-id="FashionTVMidnightSecrets.fr" tvg-name="Fashion TV Midnight Secrets", Fashion TV Midnight Secrets
-https://warningfm.github.io/v2/live/m3u8/fs/700a192f4d09364.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/pnhzRFh.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Kaloopy TV
-https://warningfm.github.io/v2/live/m3u8/fs/801a98b42276bae.m3u8
+http://khano.nng.cloudns.us/live/m3u8/fs/801a98b42276bae.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjgoROa.jpg?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/zzja5enf-480.jpg?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Naked News 2020
@@ -798,11 +798,11 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/index.
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e23nkKs.png?v=1.0.0.1" group-title="Hindi" tvg-id="Sony MAX2" tvg-name="Sony MAX2", Sony MAX2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/4L7BYKM.png?v=8.8.4.4" group-title="Hindi", &PicturesHD
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJejtvGngl_gW-CDwHPSZ4Fw/ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/ceBQDFq.png?v=8.8.4.4" group-title="Hindi", tvg-id="Zee TV" tvg-name="Zee TV HD", Zee TV
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJdcPyiqenv4tzqLlTsCdABA/ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zing" tvg-name="Zing", Zing
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/gSsIODC.png?v=1.0.0.1" group-title="Hindi", Zee Cinema
+http://103.120.172.74:4100
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ceBQDFq.png?v=8.8.4.4" group-title="Hindi", tvg-id="Zee TV" tvg-name="Zee TV HD", Zee TV
+http://103.120.172.74:1140
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zing" tvg-name="Zing", Zing
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJUavgIjJsK4WNztJDg0-xYM/ts
 
 ########################################################     Radio     ########################################################

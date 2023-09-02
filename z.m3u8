@@ -135,7 +135,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/2224e34a782179c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XF1c2OB.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Citra Entertainment" tvg-name="Citra Entertainment", Citra Entertainment
-http://khano.nng.cloudns.us/live/m3u8/id/citraentertainment.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3

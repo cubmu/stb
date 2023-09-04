@@ -352,7 +352,7 @@ http://khano.nng.cloudns.us/live/m3u8/int/9205d76d156e9c1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/BaA1xU1.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="HGTVAsia.us" tvg-name="HGTV HD", HGTV
 http://khano.nng.cloudns.us/live/m3u8/int/f8a232cfff768fd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/sm722lM.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Food Network" tvg-name="Food Network HD", Food Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g6GJYLq.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Food Network" tvg-name="Food Network HD", Food Network
 http://khano.nng.cloudns.us/live/m3u8/int/647844d232a8d61.m3u8
 
 ########################################################      News     ########################################################
@@ -677,7 +677,7 @@ https://anevia115.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/hT2TzOR.png?v=1.0.0.1" group-title="Movies" tvg-id="mycinema" tvg-name="mycinema", My Cinema
 https://anevia115.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/bSDsPVg.png?v=1.0.0.1" group-title="Movies" tvg-id="SONY PIX" tvg-name="SONY PIX", SONY PIX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYBHBlD.png?v=1.0.0.1" group-title="Movies" tvg-id="SONY PIX" tvg-name="SONY PIX", SONY PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xB7jWnt.png?v=1.0.0.1" group-title="Movies" tvg-id="CitraBioskop" tvg-name="Citra Bioskop", Citra Bioskop

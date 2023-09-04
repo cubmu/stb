@@ -624,12 +624,12 @@ https://anevia114.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XeLiJ6U.png?v=1.0.0.1" group-title="Movies" tvg-id="Galaxy.id" tvg-name="Galaxy", Galaxy
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sGJh5Jl.png?v=1.0.0.1" group-title="Movies" tvg-id="Galaxy.id" tvg-name="Galaxy", Galaxy
 https://anevia114.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/TWUPJok.png?v=1.0.0.1" group-title="Movies" tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium", Galaxy Premium
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/YI7WVHx.png?v=1.0.0.1" group-title="Movies" tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium", Galaxy Premium
 https://anevia114.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

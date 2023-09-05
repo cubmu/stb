@@ -528,6 +528,12 @@ http://khano.nng.cloudns.us/live/m3u8/knl/lovenature.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/5znakl6.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Smithsonian Channel" tvg-name="Smithsonian Channel", Smithsonian Channel
 http://khano.nng.cloudns.us/live/m3u8/knl/smithsonianaus.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/DMAX.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DMAX" tvg-name="DMAX HD", DMAX
+http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_BBC_EARTH.png?v=1.0.0.1" group-title="Knowledge" tvg-id="143", Sony BBC Earth HD
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+
 ########################################################   Religious   ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

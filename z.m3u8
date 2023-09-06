@@ -44,7 +44,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 http://khano.nng.cloudns.us/live/m3u8/id/e22dc65d77c8886.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hwBnVIB.jpg?v=1.0.0.1" group-title="tvN150N" tvg-id="Nagaswara Digital" tvg-name="Nagaswara Digital", Nagaswara Digital
-https://warningfm.github.io/streams/nagaswaradensdut.m3u8
+https://raw.githubusercontent.com/warningfm/streams/master/nagaswaradensdut.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi

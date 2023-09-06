@@ -788,24 +788,22 @@ https://content.jwplatform.com/manifests/Ig0Psrrc.m3u8
 
 ########################################################     Hindi     ########################################################
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/yvfUpGV.png?v=1.0.0.1" group-title="Hindi" tvg-id="ZeeBioskop.in" tvg-name="Zee Bioskop", Zee Bioskop
-https://anevia114.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sgCmp9R.png?v=8.8.4.4" group-title="Hindi" tvg-id="Sony Entertainment Television" tvg-name="Sony Entertainment Television", Sony Entertainment Television
-https://warningfm.github.io/v2/live/m3u8/iptv/sonytv.m3u8
+http://khano.nng.cloudns.us/live/m3u8/hnd/sonytv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/36Sd3Rt.png?v=1.0.0.1" group-title="Hindi" tvg-id="Sony Max" tvg-name="Sony Max", Sony Max
-http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/index.m3u8
+http://khano.nng.cloudns.us/live/m3u8/hnd/sonymax.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0gV3Fo.png?v=1.0.0.1" group-title="Hindi" tvg-id="SonyMaxHD" tvg-name="Sony Max HD", Sony Max HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e23nkKs.png?v=1.0.0.1" group-title="Hindi" tvg-id="Sony MAX2" tvg-name="Sony MAX2", Sony MAX2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/gSsIODC.png?v=1.0.0.1" group-title="Hindi", Zee Cinema
-http://103.120.172.74:4100
+http://khano.nng.cloudns.us/live/m3u8/hnd/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ceBQDFq.png?v=8.8.4.4" group-title="Hindi", tvg-id="Zee TV" tvg-name="Zee TV HD", Zee TV
-http://103.120.172.74:1140
+http://khano.nng.cloudns.us/live/m3u8/hnd/zeetvhd.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zing" tvg-name="Zing", Zing
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJUavgIjJsK4WNztJDg0-xYM/ts
+http://khano.nng.cloudns.us/live/m3u8/hnd/zing.m3u8
 
 ########################################################     Radio     ########################################################
 

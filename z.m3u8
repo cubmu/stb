@@ -384,33 +384,35 @@ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.
 
 ########################################################   MalaysiaTV  ########################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8BTOxlC.png?v=1.0.0.1" group-title="Malaysia" tvg-id="AstroAwani" tvg-name="Astro Awani HD", Astro Awani
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uc2cHnp.png?v=1.0.0.1" group-title="Malaysia" tvg-id="Astro Awani" tvg-name="Astro Awani HD", Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oBNlPhA.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TVOkey" tvg-name="TV Okey" tvg-name="TV Okey", TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAMtj0S.png?v=1.1.1.1" group-title="Malaysia" tvg-id="TV1HD" tvg-name="TV1 HD", TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s1mRWex.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV2" tvg-name="TV2 HD", TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2K7ufj5.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV6" tvg-name="TV6", TV6
-http://cdn.nng.cloudns.us/m3u8/rtm/tv6b3402d11f58d.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fEEFzKF.png?v=1.0.0.1" group-title="Malaysia" tvg-id="BeritaRTM" tvg-name="Berita RTM", Berita RTM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQtzwWS.png?v=1.0.0.1" group-title="Malaysia" tvg-id="BeritaRTM" tvg-name="Berita RTM", Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oW0riHe.jpg?v=1.1.1.1" group-title="Malaysia" tvg-id="TV3" tvg-name="TV3", TV3
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mWR9iwO.png?v=1.0.0.1" group-title="Malaysia" tvg-id="BernamaTV" tvg-name="Bernama", Bernama
+http://warningfm.github.io/utubeLive/BERNAMATV.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f2JzaMd.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV9" tvg-name="TV9", TV9
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yqfHm18.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV Okey" tvg-name="TV Okey", TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sh6oadV.png?v=1.1.1.1" group-title="Malaysia" tvg-id="TV1 HD" tvg-name="TV1 HD", TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Vlmsos.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV2" tvg-name="TV2 HD", TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dhrruWp.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV6" tvg-name="TV6", TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c5WJlU.png?v=1.1.1.1" group-title="Malaysia" tvg-id="TV3" tvg-name="TV3", TV3
+https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQWHP5j.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV9" tvg-name="TV9", TV9
+https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/PcPDrl9.png?v=1.0.0.1" group-title="Malaysia" tvg-id="IKIM", IKIM
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 ########################################################    Singapore     ########################################################
 

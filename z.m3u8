@@ -119,7 +119,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/b825800cf4d3aaa.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8h.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.0.0.1" group-title="tvN150N" tvg-id="TVRI.id" tvg-name="TVRI JAWA TIMUR", TVRI JAWA TIMUR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.0.0.1" group-title="tvN150N" tvg-id="TVRI.id" tvg-name="TTVRI Jawa Timur", TVRI Jawa Timur
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -173,7 +173,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9263bf14-cd77
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pwxmNpN.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Elshinta TV" tvg-name="Elshinta TV", Elshinta TV
 http://khano.nng.cloudns.us/live/m3u8/id/383fb71f4a76ab2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EYJ0ED2.png?v=1.0.0.1" group-title="tvN150N", Jakarta Globe News Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EYJ0ED2.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Jakarta Globe News Channel HD" tvg-name="Jakarta Globe News Channel HD", Jakarta Globe News Channel
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kx1rHEq.png?v=1.0.0.1" group-title="tvN150N" tvg-id="BBS TV" tvg-name="BBS TV", BBS TV

@@ -65,6 +65,7 @@ https://s7.mbahnunungonline.net/live/m3u8/id/a6e7e966ea54cd3.m3u8
 https://s7.mbahnunungonline.net/live/m3u8/id/0525ed2747e3161.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y6txhEMQM8g/YRJCHGyUfvI/AAAAAAAABK0/GjpDib4q7X0Yk-V5Tdo871eCzvA6CLpugCLcBGAsYHQ/s0/QO5Fi9H.png?v=1.1.1.1" group-title="tvN150N" tvg-id="MagnaChannel.id" tvg-name="Magna Channel", Magna Channel
 https://s7.mbahnunungonline.net/live/m3u8/id/6183ec225226ccd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-T4h9tq-CBc4/YMOM_KdQoEI/AAAAAAAABF0/RsmXftU94LMXunyA_hcL6kXlZ7L307NbQCLcBGAsYHQ/s0/60lNdUo.png?v=1.0.0.1" group-title="tvN150N" tvg-id="MyTV", MyTV
 https://s7.mbahnunungonline.net/live/m3u8/id/f9973976ebde68c.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GdXrGIao-l8/YMOPNggqZBI/AAAAAAAABGY/ZV2nmfwIxA87abMgcIrZK_hdh1BVyEfKgCLcBGAsYHQ/s0/DATJMK7.png?v=1.1.1.1" group-title="tvN150N" tvg-id="JawaposTV.id" tvg-name="JawaposTV", JawaposTV
@@ -78,6 +79,7 @@ https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 
 ########################################################   Arab TV    ########################################################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fWptaGwAu_4/YROhuhWnZAI/AAAAAAAABOs/EV7vqN3WHnckLRH37Zs7X1G0E8ZESC9SgCLcBGAsYHQ/s0/6FcTok4.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Al Sunnah" tvg-name="Al Sunnah", Al Sunnah (Medina)
 https://s7.mbahnunungonline.net/live/m3u8/ar/18d7c304801584a.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7JEi9_dcPeg/YROl1qfq_2I/AAAAAAAABPM/Q8pDdzocmoYCSzSB64p4Ll9s4_8IqdfpgCLcBGAsYHQ/s0/nclyzsj.png?v=1.0.0.1" group-title="Arab" tvg-id="Iqraa-Tv" tvg-name="Iqraa-Tv", Iqraa-Tv

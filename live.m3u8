@@ -3,73 +3,73 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MIKxg3_8Zag/YRa7HBr1hNI/AAAAAAAABTQ/FvDF324u9ew4JwRRCpBUyYkT4gdzVYuGwCLcBGAsYHQ/s0/VKAWqEO.png?v=1.1.1.1" group-title="tvN150N" tvg-id="RCTI.id" tvg-name="RCTI", RCTI
-https://s7.mbahnunungonline.net/live/m3u8/id/7cb6654ebec98b7.m3u8
+/live/m3u8/id/7cb6654ebec98b7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-z5DrHEQtKQQ/YMOFjveysZI/AAAAAAAABFI/6nsf_RKG16I7DzoFkERg4pc_7b4FPnc0QCLcBGAsYHQ/s0/sHsPccL.png?v=1.0.0.1" group-title="tvN150N" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
-https://s7.mbahnunungonline.net/live/m3u8/id/2b8fc230e8f847a.m3u8
+/live/m3u8/id/2b8fc230e8f847a.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aMcvtlHs7GQ/YRa7HF6-GwI/AAAAAAAABTM/fgzEO-rE8yMV_uzGaQQ6yp9TrOgHOYwiwCLcBGAsYHQ/s0/HJHmRAh.png?v=1.1.1.1" group-title="tvN150N" tvg-id="MNC TV" tvg-name="MNC TV", MNCTV
-https://s7.mbahnunungonline.net/live/m3u8/id/d9bbf6929ec1028.m3u8
+/live/m3u8/id/d9bbf6929ec1028.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3Ur9mQDmgIU/YMOFhmXfs_I/AAAAAAAABEk/taYbuYCWiuEA7Y5q9msgBPDl-aOO_JdVACLcBGAsYHQ/s0/RdOrRX2.png?v=1.1.1.1" group-title="tvN150N" tvg-id="AlQuranKareem.id" tvg-name="Al Quran Al Kareem", AlQuran Kareem
-https://s7.mbahnunungonline.net/live/m3u8/ar/f74b5dff8b8e6c6.m3u8
+/live/m3u8/ar/f74b5dff8b8e6c6.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5ZxSkqFEDrE/YMOFgN2TyqI/AAAAAAAABEM/0oHHHxoQveQ16OoWUgCsMZojtkip6x66QCLcBGAsYHQ/s0/BbPufM8.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
-https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8
+/live/m3u8/id/575eeb9f08dc8db.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ISLk55hTmFU/YMOFgw3MJBI/AAAAAAAABEY/f-5hIh6bHC4D_roTzfsdwpuV0Xu7wGGJQCLcBGAsYHQ/s0/Jj4S2E4.png?v=1.0.0.1" group-title="tvN150N" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
-https://s7.mbahnunungonline.net/live/m3u8/id/6183ec225226ccc.m3u8
+/live/m3u8/id/6183ec225226ccc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yAoaEjGMwtg/YMOFhdLK3NI/AAAAAAAABEg/aL3SuCSNJJoU5RNuy6T1ctbHz21na8XxACLcBGAsYHQ/s0/QTEjMpg.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Trans7.id" tvg-name="Trans 7", Trans7
-https://s7.mbahnunungonline.net/live/m3u8/id/cdd283c9d3d43b6.m3u8
+/live/m3u8/id/cdd283c9d3d43b6.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-irPeH0aY7Vs/YMOFhjlQnZI/AAAAAAAABEo/BL60bQ0Z0pI9hoQcWXvyer2eLJcVd4QUwCLcBGAsYHQ/s0/RnrimdT.png?v=1.0.0.1" group-title="tvN150N" tvg-id="TransTV.id" tvg-name="Trans TV", TransTV
-https://s7.mbahnunungonline.net/live/m3u8/id/61061784f4a9270.m3u8
+/live/m3u8/id/61061784f4a9270.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-krWxMeHwxrM/YRJC1qPBLiI/AAAAAAAABK8/I6ecPYNF59obT6YQqrDmosB9uVU0QzC-gCLcBGAsYHQ/s0/FGSb1Vw.png?v=1.0.0.1" group-title="tvN150N" tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut", Citra Dangdut
-https://s7.mbahnunungonline.net/live/m3u8/id/e22dc65d77c8886.m3u8
+/live/m3u8/id/e22dc65d77c8886.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GR57XA8olF8/YMOFfPvSOCI/AAAAAAAABEA/bOl3WXT_UR4IBjao-dPtkBXKz8wO3UivACLcBGAsYHQ/s0/45Vmwv5.png?v=1.1.1.1" group-title="tvN150N" tvg-id="GTV.id" tvg-name="GTV", GTV
-https://s7.mbahnunungonline.net/live/m3u8/id/df56d15c1ad325a.m3u8
+/live/m3u8/id/df56d15c1ad325a.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mQPuaSA2MD4/YMOFi2xTJ1I/AAAAAAAABFA/OGNqwGFRWxAFfj8MPP2b12h1CAX1HhNYACLcBGAsYHQ/s0/jqNYjGu.png?v=1.0.0.1" group-title="tvN150N" tvg-id="NET.id" tvg-name="NET TV", NET.
-https://s7.mbahnunungonline.net/live/m3u8/id/6cdb3402d11f58d.m3u8
+/live/m3u8/id/6cdb3402d11f58d.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kPU9eV5MyK8/YMOFg1dHAbI/AAAAAAAABEc/tWJYK_5cqkUMkKDQBq_Z1lDMmEnGLgiLACLcBGAsYHQ/s0/N1yKLa1.png?v=1.1.1.1" group-title="tvN150N" tvg-id="TVOne.id" tvg-name="TVOne", tvOne
-https://s7.mbahnunungonline.net/live/m3u8/id/0976f879a0c4548.m3u8
+/live/m3u8/id/0976f879a0c4548.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ep5F0g7U91Q/YMOFiX0jbGI/AAAAAAAABE0/UIyb8Hyrd682jQ5DXo9AolJQxy1luiFawCLcBGAsYHQ/s0/XlZqfwV.png?v=1.1.1.1" group-title="tvN150N" tvg-id="RajawaliTV.id" tvg-name="RTV", RTV
-https://s7.mbahnunungonline.net/live/m3u8/id/590642f0a31efa4.m3u8
+/live/m3u8/id/590642f0a31efa4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--m-tf_1Hlmk/YQ-_XEI4EHI/AAAAAAAABI8/STJkg-d0ge0i5Qksv2Vp49eI47CH9h8bgCLcBGAsYHQ/s0/sxlxwvA.png?v=1.0.0.1" group-title="tvN150N" tvg-id="ANTV.id" tvg-name="ANTV", antv
-https://s7.mbahnunungonline.net/live/m3u8/id/b630a001384603f.m3u8
+/live/m3u8/id/b630a001384603f.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XVXPUmZD94k/YMOFiwPPw1I/AAAAAAAABE4/xP4HMP2m7gYKwTn4H35HmejWpek8VNFXQCLcBGAsYHQ/s0/aJhpmgf.png?v=1.0.0.1" group-title="tvN150N" tvg-id="KompasTV.id" tvg-name="Kompas TV", Kompas TV
-https://s7.mbahnunungonline.net/live/m3u8/id/ae5f9d6bcd610b6.m3u8
+/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tSKKlTw9GZ8/YMOFiEszsTI/AAAAAAAABEw/GhUUhvNY_nkU8rYzgmRCkoCwu0SWzm82gCLcBGAsYHQ/s0/XBtbPBF.png?v=1.0.0.1" group-title="tvN150N" tvg-id="TVRINasional.id" tvg-name="TVRI", TVRI Nasional
-https://s7.mbahnunungonline.net/live/m3u8/id/3f58825fe229a8f.m3u8
+/live/m3u8/id/3f58825fe229a8f.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DgVXdILk_2U/YMOFgRvUd8I/AAAAAAAABEQ/tlWQu2OAmxwnyVFbaa1KFXsseg5Ie5OnACLcBGAsYHQ/s0/EknqlDs.png?v=1.1.1.1" group-title="tvN150N" tvg-id="iNews.id" tvg-name="iNews", iNews
-https://s7.mbahnunungonline.net/live/m3u8/id/2f760b7cf8286be.m3u8
+/live/m3u8/id/2f760b7cf8286be.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Edy-dDv89ZA/YMOFi3Put8I/AAAAAAAABE8/yh_egePZ7v8uz1lUDjXzNjVJvlJjMIA_QCLcBGAsYHQ/s0/gII3Eq8.png?v=1.0.0.1" group-title="tvN150N" tvg-id="BeritaSatu.id" tvg-name="Berita Satu", BTV
-https://s7.mbahnunungonline.net/live/m3u8/id/270f72deeb5843f.m3u8
+/live/m3u8/id/270f72deeb5843f.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-im1wyciwT3A/YRa4drCVz6I/AAAAAAAABTE/qy8luMe5yTowjdCdsuu-m4WVuYlZ226TACLcBGAsYHQ/s0/eLjHSKm.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Nusantara TV", Nusantara TV
-https://s7.mbahnunungonline.net/live/m3u8/id/378a642ff00fed9.m3u8
+/live/m3u8/id/378a642ff00fed9.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CID2wYVDXMA/YMOFfU3URMI/AAAAAAAABD8/oMaieyhDZCklUBv-8pQljrHLIMHK_7GoQCLcBGAsYHQ/s0/1Mtx9mY.png?v=1.1.1.1" group-title="tvN150N" tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia", CNN Indonesia
-https://s7.mbahnunungonline.net/live/m3u8/id/d12f0b99ed1f070.m3u8
+/live/m3u8/id/d12f0b99ed1f070.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PPFtIs9t3uo/YRJNmWB_uoI/AAAAAAAABLM/3ryLr65n1QoD6vGdUCqXjhRiunPlsd_TQCLcBGAsYHQ/s0/tIFiAdl.png?v=1.0.0.1" group-title="tvN150N" tvg-id="GarudaTV.id" tvg-name="Garuda TV", Garuda TV
-https://s7.mbahnunungonline.net/live/m3u8/id/b825800cf4d3aaa.m3u8
+/live/m3u8/id/b825800cf4d3aaa.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-btZpctEFeBI/YMOFfKysoeI/AAAAAAAABEE/scLUQ3ruSvMsVx4bbIFUFauihC3rByIgQCLcBGAsYHQ/s0/4P5UM89.png?v=1.0.0.1" group-title="tvN150N" tvg-id="JTV.id" tvg-name="JTV", JTV
-https://s7.mbahnunungonline.net/live/m3u8/id/226fe77699e03c6.m3u8
+/live/m3u8/id/226fe77699e03c6.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-m9PT_NQisMA/YMONAKrlNpI/AAAAAAAABF8/YYjNRN_0gEAzBk3mb1G44Fi7awUZM4aPwCLcBGAsYHQ/s0/vJPneCu.png?v=1.0.0.1" group-title="tvN150N" tvg-id="TV9Nusantara.id" tvg-name="TV9 Nu", TV9 Nusantara
-https://s7.mbahnunungonline.net/live/m3u8/id/ca07a749e91966b.m3u8
+/live/m3u8/id/ca07a749e91966b.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EFU3lJssyuM/YMOM_-CJMyI/AAAAAAAABF4/IBh28cs5qsAxSDa31MvrK3nE2E3G7qWNwCLcBGAsYHQ/s0/sRHJJ5c.png?v=1.0.0.1" group-title="tvN150N" tvg-id="TawafTV.id" tvg-name="Tawaf TV", Tawaf TV
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba711.m3u8

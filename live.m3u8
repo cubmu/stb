@@ -221,7 +221,7 @@ http://khano.nng.cloudns.us/live/m3u8/op/7335edf66aba710.m3u8
 ########################################################     Movies    ########################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/gL9y8n3.png?v=1.0.0.1" group-title="Movies" tvg-id="AXNIndonesia.id" tvg-name="AXN", AXN
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/gL9y8n3.png?v=1.0.0.1" group-title="Movies" tvg-id="AXN.id" tvg-name="AXN", AXN
 http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Jy0qhiH.png?v=1.0.0.1" group-title="Movies" tvg-id="CCM.hk" tvg-name="CCM", Celestial Classic Movies
@@ -257,7 +257,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/N0TKqJd.png?v=1.0.0.1" group-title="Movies" tvg-id="tvNMoviesAsia.hk" tvg-name="tvN Movies", TVN Movies
 http://op-group2-swiftservehd-1.dens.tv/h/h21/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/C4fAMFx.png?v=1.0.0.1" group-title="Movies" tvg-id="ParamountNetworkIndonesia.id" tvg-name="Paramount Network", Paramount
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/C4fAMFx.png?v=1.0.0.1" group-title="Movies" tvg-id="ParamountNetworkIndonesia.id" tvg-name="Paramount Network", Paramount Network
 http://s7.mbahnunungonline.net/live/m3u8/iptv/paramount.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rlWbgCR.png?v=1.1.1.1" group-title="Movies" tvg-id="RockExtreme.sg" tvg-name="ROCK Action", ROCK Action

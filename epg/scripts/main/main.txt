@@ -1,7 +1,7 @@
 astro.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
 
-epg.xml
+AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
 indonesiapremium1.xml
@@ -31,26 +31,20 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
 
-i.mjh.nz.xml
-https://i.mjh.nz/all/epg.xml
-
 china.xml
 https://www.bevy.be/bevyfiles/china.xml
 
 hongkongpremium.xml
 https://www.bevy.be/bevyfiles/hongkongpremium.xml
 
-thailand.xml
-https://www.bevy.be/bevyfiles/thailand.xml
-
 arabia.xml
 https://www.bevy.be/bevyfiles/arabia.xml
 
-france.xml
-https://www.bevy.be/bevyfiles/france.xml
-
 SamsungTVPlus.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
+
+Singtel.xml
+https://i.mjh.nz/Singtel/epg.xml
 
 spain.xml
 https://www.bevy.be/bevyfiles/spain.xml

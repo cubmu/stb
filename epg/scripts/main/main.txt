@@ -1,9 +1,6 @@
 astro.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
 
-AqFad2811epg.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
-
 indonesiapremium1.xml
 https://www.bevy.be/bevyfiles/indonesiapremium1.xml
 

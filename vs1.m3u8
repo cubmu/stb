@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.nng.cloudns.us" url-tvg="http://epg.nng.cloudns.us" refresh="3600"
+#EXTM3U x-tvg-url="http://khano.nng.cloudns.us/epg/global/guide.xml.gz" url-tvg="http://khano.nng.cloudns.us/epg/global/guide.xml.gz" refresh="3600"
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

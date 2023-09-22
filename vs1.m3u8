@@ -124,11 +124,6 @@ http://al.nng.cloudns.us/BNTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uAHJS7W.png?v=1.0.0.1" group-title="Kids" tvg-id="AstroCeria" tvg-name="Astro Ceria HD", Astro Ceria
 https://mhdtv.co.in/mhdtv-pro.php/http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408
-#EXTINF:-1 tvg-logo="https://iili.io/1Nol0Q.png" group-title="Kids" tvg-id="619" tvg-name="Boomerang HD", Boomerang HD
-https://mhdtv.co.in/mhdtv-pro.php/http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xnK3XBL.png?v=1.0.0.1" group-title="Kids" tvg-id="5464" tvg-name="BabyTV (HD)", BabyTV (HD)

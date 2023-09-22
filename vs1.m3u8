@@ -355,9 +355,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/I3UabxG.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="LifestyleFashion.id" tvg-name="Lifestyle & Fashion", Lifestyle & Fashion
 https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/3IDyQAj.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="AsianFoodNetwork.sg" tvg-name="Asian Food Network HD", Asian Food Network
-#http://khano.nng.cloudns.us/live/m3u8/int/9205d76d156e9c1.m3u8
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
+https://mhdtv.co.in/mhdtv-pro.php/http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/BaA1xU1.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="HGTVAsia.us" tvg-name="HGTV HD", HGTV
 http://khano.nng.cloudns.us/live/m3u8/int/f8a232cfff768fd.m3u8

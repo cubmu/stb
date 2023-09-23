@@ -40,7 +40,7 @@ https://www.bevy.be/bevyfiles/hongkongpremium.xml
 arabia.xml
 https://www.bevy.be/bevyfiles/arabia.xml
 
-Singtel.xml
+Singtelepg.xml
 https://i.mjh.nz/Singtel/epg.xml
 
 spain.xml

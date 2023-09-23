@@ -37,9 +37,6 @@ https://www.bevy.be/bevyfiles/hongkongpremium.xml
 arabia.xml
 https://www.bevy.be/bevyfiles/arabia.xml
 
-SamsungTVPlus.xml
-https://i.mjh.nz/SamsungTVPlus/all.xml
-
 Singtel.xml
 https://i.mjh.nz/Singtel/epg.xml
 

@@ -337,9 +337,10 @@ http://khano.nng.cloudns.us/live/m3u8/int/892fc80890b4b65.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jJTACLd.png?v=1.0.0.1" group-title="Korengan" tvg-id="KBSWorld.kr" tvg-name="KBS World HD", KBS World
 http://khano.nng.cloudns.us/live/m3u8/int/56114419787640f.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uwUXO4D.png?v=1.0.0.1" group-title="Korengan" tvg-id="KPlus.sg" tvg-name="K-Plus HD", Kplus
-http://khano.nng.cloudns.us/live/m3u8/int/c19fce28bcd7cb7.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983
+#EXTINF:-1 tvg-id="393" tvg-name="K-Plus HD" tvg-logo="https://cdn4.mbahnunungonline.net/img/uwUXO4D.png?v=1.0.0.1" group-title="Korengan", K-Plus HD
+https://mhdtv.co.in/mhdtv-pro.php/http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi

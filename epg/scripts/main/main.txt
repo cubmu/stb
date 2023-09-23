@@ -25,6 +25,9 @@ https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
 SamsungTVPlusca.xml
 https://i.mjh.nz/SamsungTVPlus/ca.xml
 
+SamsungTVPlusin.xml
+https://i.mjh.nz/SamsungTVPlus/in.xml
+
 Sydneyepg.xml
 https://i.mjh.nz/au/Sydney/epg.xml
 

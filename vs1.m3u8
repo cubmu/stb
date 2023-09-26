@@ -375,71 +375,71 @@ https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyle
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/BydlaOh.png?v=1.0.0.1" group-title="News" tvg-id="ABCAustralia.id" tvg-name="ABC Australia HD", ABC Australia
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/BydlaOh.png?v=1.0.0.1" group-title="🌍 News" tvg-id="ABCAustralia.id" tvg-name="ABC Australia HD", ABC Australia
 https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AG53buo.png?v=1.0.0.1" group-title="News" tvg-id="BloombergTVAsia.hk" tvg-name"Bloomberg TV HD", Bloomberg TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AG53buo.png?v=1.0.0.1" group-title="🌍 News" tvg-id="BloombergTVAsia.hk" tvg-name"Bloomberg TV HD", Bloomberg TV
 http://op-group2-swiftservehd-1.dens.tv/h/h03/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/6fEGqfK.png?v=1.0.0.1" group-title="News" tvg-id="CNA" tvg-name"CNA HD", CNA
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/6fEGqfK.png?v=1.0.0.1" group-title="🌍 News" tvg-id="CNA" tvg-name"CNA HD", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/nLk6uxc.png?v=1.0.0.1" group-title="News" tvg-id="CNN" tvg-name="CNN HD", CNN HD
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/nLk6uxc.png?v=1.0.0.1" group-title="🌍 News" tvg-id="CNN" tvg-name="CNN HD", CNN HD
 http://khano.nng.cloudns.us/live/m3u8/ns/0a8c23a12b66e1b.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/GZQvCs6.png?v=1.0.0.1" group-title="News" tvg-id="DW English" tvg-name="DW English", DW English
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/GZQvCs6.png?v=1.0.0.1" group-title="🌍 News" tvg-id="DW English" tvg-name="DW English", DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fNQSndi.png?v=1.0.0.1" group-title="News" tvg-id="Euronews" tvg-name="Euronews", Euronews
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fNQSndi.png?v=1.0.0.1" group-title="🌍 News" tvg-id="Euronews" tvg-name="Euronews", Euronews
 https://nyanv-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/GFOQVEf.png?v=1.0.0.1" group-title="News" tvg-id="France24English" tvg-name"France 24 English", France24
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/GFOQVEf.png?v=1.0.0.1" group-title="🌍 News" tvg-id="France24English" tvg-name"France 24 English", France24
 https://nyanv-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/BwijqtC.png?v=1.0.0.1" group-title="News" tvg-id="NHK World" tvg-name="NHK World", NHK World
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/BwijqtC.png?v=1.0.0.1" group-title="🌍 News" tvg-id="NHK World" tvg-name="NHK World", NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/5L5L2fv.png?v=1.0.0.1" group-title="News" tvg-ID="NHKWorldPremium.jp" tvg-name"NHK World Premium", NHK World Premium HD 
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/5L5L2fv.png?v=1.0.0.1" group-title="🌍 News" tvg-ID="NHKWorldPremium.jp" tvg-name"NHK World Premium", NHK World Premium HD 
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/DcF2NzS.png?v=1.0.0.1" group-title="News" tvg-id="TRTWorld.tr" tvg-name"TRT World", TRT World
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/DcF2NzS.png?v=1.0.0.1" group-title="🌍 News" tvg-id="TRTWorld.tr" tvg-name"TRT World", TRT World
 http://khano.nng.cloudns.us/live/m3u8/ns/27491db6bea155a.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/RytQgdW.png?v=1.0.0.1" group-title="News" tvg-id="IDXChannel.id" tvg-name"IDX Channel", IDX
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/RytQgdW.png?v=1.0.0.1" group-title="🌍 News" tvg-id="IDXChannel.id" tvg-name"IDX Channel", IDX
 https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sKveXoi.png?v=1.0.0.1" group-title="News" tvg-id="MNC News" tvg-name"MNC News", MNC News
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sKveXoi.png?v=1.0.0.1" group-title="🌍 News" tvg-id="MNC News" tvg-name"MNC News", MNC News
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AhnS4ar.png?v=1.0.0.1" group-title="News" tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English", Al Jazeera English
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AhnS4ar.png?v=1.0.0.1" group-title="🌍 News" tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English", Al Jazeera English
 http://khano.nng.cloudns.us/live/m3u8/ns/f5f5c18cf037919.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fgUVz5m.png?v=1.0.0.1" group-title="News" tvg-id="aljazeeraarabic.kn" tvg-name="Al Jazeera Arabic HD", Al Jazeera Arabic HD
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fgUVz5m.png?v=1.0.0.1" group-title="🌍 News" tvg-id="aljazeeraarabic.kn" tvg-name="Al Jazeera Arabic HD", Al Jazeera Arabic HD
 http://khano.nng.cloudns.us/live/m3u8/ar/f5f5c18cf037918.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/S3Gn16p.png?v=1.0.0.1" group-title="News" tvg-id="Al Arabiya" tvg-name="Al Arabiya", Al Arabiya
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/S3Gn16p.png?v=1.0.0.1" group-title="🌍 News" tvg-id="Al Arabiya" tvg-name="Al Arabiya", Al Arabiya
 http://khano.nng.cloudns.us/live/m3u8/ar/b8b58e25df2b3ce.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xSCGVhz.png?v=1.0.0.1" group-title="News" tvg-id="AlManar.lb" tvg-name="Al-Manar TV", Al-Manar TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xSCGVhz.png?v=1.0.0.1" group-title="🌍 News" tvg-id="AlManar.lb" tvg-name="Al-Manar TV", Al-Manar TV
 http://khano.nng.cloudns.us/live/m3u8/ar/5bfcf72843eebe5.m3u8
 
 ########################################################   Religious   ########################################################

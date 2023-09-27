@@ -325,9 +325,6 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/W1JfODW.png?v=1.0.0.1" group-title="Entertainment" tvg-id="UseePrime.id" tvg-name="UseePrime", UseePrime
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Cj6JSFa.png?v=1.0.0.1" group-title="Entertainment" tvg-id="The Indonesia Channel" tvg-name="The Indonesia Channel", The Indonesia Channel
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
-
 ########################################################    Korengan   ########################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -845,23 +842,29 @@ https://content.jwplatform.com/manifests/Ig0Psrrc.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/COLOR%20HINDI.png?v=8.8.4.4" group-title="Hindi" tvg-id="Colors.in" tvg-name="COLORS", Colors HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/COLOR%20HINDI.png?v=8.8.4.4" group-title="🎭 Hindi" tvg-id="Colors.in" tvg-name="COLORS", Colors HD
 https://mhdtv.co.in/mhdtv-pro.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/yvfUpGV.png?v=1.0.0.1" group-title="Hindi" tvg-id="ZeeBioskop.in" tvg-name="Zee Bioskop", Zee Bioskop
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RArAA1PLfXc/Yazhuq-x75I/AAAAAAAABhM/ZEAGZgIIB7Ubho7CbkfsFXOEkeZNqWJGACNcBGAsYHQ/s0/gSsIODC.png?v=1.0.0.1" group-title="🎭 Hindi" tvg-id="Zee Cinema" tvg-name="Zee Cinema", Zee Cinema (astro)
+https://mhdtv.co.in/mhdtv-pro.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/yvfUpGV.png?v=1.0.0.1" group-title="🎭 Hindi" tvg-id="ZeeBioskop.in" tvg-name="Zee Bioskop", Zee Bioskop
 http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sgCmp9R.png?v=8.8.4.4" group-title="Hindi" tvg-id="Sony Entertainment Television" tvg-name="Sony Entertainment Television", Sony Entertainment Television
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sgCmp9R.png?v=8.8.4.4" group-title="🎭 Hindi" tvg-id="Sony Entertainment Television" tvg-name="Sony Entertainment Television", Sony Entertainment Television
 http://khano.nng.cloudns.us/live/m3u8/hnd/sonytv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/36Sd3Rt.png?v=1.0.0.1" group-title="Hindi" tvg-id="Sony Max" tvg-name="Sony Max", Sony Max
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/36Sd3Rt.png?v=1.0.0.1" group-title="🎭 Hindi" tvg-id="Sony Max" tvg-name="Sony Max", Sony Max
 http://khano.nng.cloudns.us/live/m3u8/hnd/sonymax.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y0gV3Fo.png?v=1.0.0.1" group-title="Hindi" tvg-id="SonyMaxHD" tvg-name="Sony Max HD", Sony Max HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y0gV3Fo.png?v=1.0.0.1" group-title="🎭 Hindi" tvg-id="SonyMaxHD" tvg-name="Sony Max HD", Sony Max HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e23nkKs.png?v=1.0.0.1" group-title="Hindi" tvg-id="Sony MAX2" tvg-name="Sony MAX2", Sony MAX2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e23nkKs.png?v=1.0.0.1" group-title="🎭 Hindi" tvg-id="Sony MAX2" tvg-name="Sony MAX2", Sony MAX2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/gSsIODC.png?v=1.0.0.1" group-title="Hindi", Zee Cinema
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/gSsIODC.png?v=1.0.0.1" group-title="🎭 Hindi", Zee Cinema
 http://khano.nng.cloudns.us/live/m3u8/hnd/zeecinemahd.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ceBQDFq.png?v=8.8.4.4" group-title="Hindi", tvg-id="Zee TV" tvg-name="Zee TV HD", Zee TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ceBQDFq.png?v=8.8.4.4" group-title="🎭 Hindi", tvg-id="Zee TV" tvg-name="Zee TV HD", Zee TV
 http://khano.nng.cloudns.us/live/m3u8/hnd/zeetvhd.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zing" tvg-name="Zing", Zing
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2UQNzYB.png?v=8.8.4.4" group-title="🎭 Hindi" tvg-id="Zing" tvg-name="Zing", Zing
 http://khano.nng.cloudns.us/live/m3u8/hnd/zing.m3u8
 
 ########################################################     Radio     ########################################################

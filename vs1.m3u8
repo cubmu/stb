@@ -86,7 +86,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d418.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9JPHanf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" tvg-id="MentariTV.id" tvg-name="Mentari TV", Mentari TV
-#http://khano.nng.cloudns.us/live/m3u8/Kids/Mentaritv.m3u8
 http://warningfm.github.io/utubeLive/nosignal/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -309,8 +308,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/fabdcb417fcb93f.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/VyqMhjx.png?v=1.0.0.1" group-title="Entertainment" tvg-id="CAAJ2700030ON" tvg-name="Outside", Outside
-https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
-#https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Tbur8nX.png?v=1.0.0.1" group-title="Entertainment" tvg-id="5119" tvg-name="(HD) Outdoor Channel", Outdoor Channel
@@ -318,9 +316,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJzM6CM.png?v=1.1.1.1" group-title="Entertainment" tvg-id="5021" tvg-name="Travel Channel HD", trvl Channel
 http://khano.nng.cloudns.us/live/m3u8/int/trvl.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/P1Gb0uAPTDIc0ggjDYoOY6aD5YlcIDWfovbYon4nRtsIHjEvtz4ov22BqWOZ25YLHAk" group-title="Entertainment" tvg-id="Discovery Turbo" tvg-name="Discovery Turbo", Discovery Turbo
-https://kusnadipepenk.github.io/ntn/disturbo.m3u8
 
 ########################################################    Korengan   ########################################################
 
@@ -363,14 +358,6 @@ http://khano.nng.cloudns.us/live/m3u8/int/647844d232a8d60.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwbuC5P.jpg?v=1.0.0.1" channel-id="samsung-ATBA1000005P4" tvg-id="ATBA1000005P4" tvg-chno="4418" group-title="Lifestyle" , Travelxp
 https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1bCDNce.jpg?v=1.0.0.1" group-title="Lifestyle" tvg-id="FIRSTLIFESTYLE.id" tvg-name="First Lifestyle HD", First Lifestyle
-http://khano.nng.cloudns.us/live/m3u8/id/lifestyle.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/YI9ouzl.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="DFC" tvg-name="DFC", DFC
-http://khano.nng.cloudns.us/live/m3u8/id/dfc160946781414.m3u8
 
 ########################################################      News     ########################################################
 
@@ -763,31 +750,6 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m
 
 ########################################################    HBO GO     ########################################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/aMtD0A0.png?v=1.0.0.1" tvg-id="HBO.id" tvg-name="HBO HD", HBO HD
-https://mhdtv.co.in/mhdtv-pro.php/http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mhdtv.co.in/mhdtv-pro.php/
-#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/EqcNQOc.png?v=1.0.0.1" tvg-id="HBOSignature.id" tvg-name="HBO Signature", HBO Signature HD
-http://tvkuonline.my.id:25461/riyad/riyad/414
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
-#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/RmTcwA0.png?v=1.1.1.1" tvg-id="HBOHits.id" tvg-name="HBO Hits HD", HBO Hits HD
-https://mhdtv.co.in/mhdtv-pro.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
-#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/AQGtEa0.png?v=1.1.1.1" tvg-id="HBOFamily.id" tvg-name="HBO Family HD", HBO Family HD
-https://mhdtv.co.in/mhdtv-pro.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
-#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/ew9mSea.png?v=1.0.0.1" tvg-id="CinemaxHD.id" tvg-name="Cinemax HD", Cinemax HD
-https://mhdtv.co.in/mhdtv-pro.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
-
 ########################################################   MalaysiaTV  ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -837,8 +799,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/CNA.png?v=1.0.0.1" group-title="🇸🇬 Singapore" tvg-id="CNA" tvg-name"CNA", CNA
-https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
-#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(1f6c6383-ed85-4bbd-8a8a-de55c2b8dcbf)/manifest.mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(1f6c6383-ed85-4bbd-8a8a-de55c2b8dcbf)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
@@ -866,7 +827,6 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 http://khano.nng.cloudns.us/live/m3u8/fs/700a192f4d09363.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XgrBSh3.png?v=1.0.0.1" group-title="Fashion" tvg-id="INBA51000038B" tvg-name="FashionTV HD" tvg-chno="1367", FashionTV
 http://khano.nng.cloudns.us/live/m3u8/fs/801a98b42276bac.m3u8
-#https://i.mjh.nz/SamsungTVPlus/INBA51000038B.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/LQqABbX.png?v=1.0.0.1" group-title="Fashion" tvg-id="FashionTVMidnightSecrets.fr" tvg-name="Fashion TV Midnight Secrets", Fashion TV Midnight Secrets
 http://khano.nng.cloudns.us/live/m3u8/fs/700a192f4d09365.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8X9FDe3.png?v=1.0.0.1" group-title="Fashion" tvg-id="Global Fashion Channel" tvg-name="Global Fashion Channel", Global Fashion Channel

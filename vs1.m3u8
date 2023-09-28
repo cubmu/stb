@@ -355,17 +355,6 @@ http://khano.nng.cloudns.us/live/m3u8/int/f8a232cfff768fe.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/g6GJYLq.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="5252" tvg-name="Food Network (HD)", Food Network HD
 http://khano.nng.cloudns.us/live/m3u8/int/647844d232a8d60.m3u8
 
-#EXTINF:-1 channel-id="samsung-ATBA1000005P4" tvg-id="ATBA1000005P4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1000005P4_20221026T004153SQUARE.png_20221026004153.png" tvg-chno="4418" group-title="Lifestyle" , Travelxp
-https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1bCDNce.jpg?v=1.0.0.1" group-title="Lifestyle" tvg-id="FIRSTLIFESTYLE.id" tvg-name="First Lifestyle HD", First Lifestyle
-http://khano.nng.cloudns.us/live/m3u8/id/lifestyle.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/YI9ouzl.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="DFC" tvg-name="DFC", DFC
-http://khano.nng.cloudns.us/live/m3u8/id/dfc160946781414.m3u8
-
 ########################################################      News     ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

@@ -17,7 +17,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sdrwEQf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" tvg-id="ANTV.id" tvg-name="antv", antv
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sdrwEQf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" tvg-id="ANTV.id" tvg-name="ANTV", ANTV
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -45,12 +45,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Inb69eO.png?v=1.0.0.1" group-title="🇮🇩 Nasional" tvg-id="tvOne.id" tvg-name="TVOne", tvOne
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Inb69eO.png?v=1.0.0.1" group-title="🇮🇩 Nasional" tvg-id="tvOne.id" tvg-name="TVOne", TVOne
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/w41XUxT.png?v=1.1.1.1" group-title="🇮🇩 Nasional" tvg-id="RajawaliTV.id" tvg-name="RTV", rtv
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/w41XUxT.png?v=1.1.1.1" group-title="🇮🇩 Nasional" tvg-id="RajawaliTV.id" tvg-name="RTV", RTV
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -95,12 +95,15 @@ http://khano.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uJTTmk8.png?v=1.1.1.1" group-title="🇮🇩 Nasional" tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia", CNBC Indonesia
 http://khano.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110d.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/tIFiAdl.png?v=1.0.0.1" group-title="🇮🇩 Nasional" tvg-id="GarudaTV.id" tvg-name="Garuda TV", Garuda TV
 http://khano.nng.cloudns.us/live/m3u8/id/b825800cf4d3aaa.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/g3hWHhA.png?v=1.1.1.1" group-title="🇮🇩 Nasional" tvg-id="TVRISport.id" tvg-name="TVRI Sport", TVRI Sport HD
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8h.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/5yKwYhk.png?v=1.0.0.1" group-title="🇮🇩 Nasional" tvg-id="TVRI.id" tvg-name="TVRI World", TVRI World HD
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 
@@ -108,6 +111,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9arShxH.png?v=1.1.1.1" group-title="🇮🇩 Nasional" tvg-id="MagnaTV" tvg-name="Magna TV", Magna TV
 http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/LCBLk2T.png?v=1.0.0.1" group-title="🇮🇩 Nasional" tvg-id="BNTV" tvg-name="BN TV", BN TV
 http://al.nng.cloudns.us/BNTV/index.m3u8
 

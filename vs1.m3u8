@@ -529,7 +529,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IeYNAmz.png?v=1.1.1.1" group-title="Sports" tvg-id="5118" tvg-name="Premier Sports", Premier Sports
 http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMWORSD.png?v=1.1.1.1" group-title="Sports" tvg-id="5257" tvg-name="TRACE Sport Stars HD", Trace Sport Stars
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMWORSD.png?v=1.1.1.1" group-title="Sports" tvg-id="5257" tvg-name="TRACE Sport Stars HD", TRACE Sport Stars HD
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 ########################################################     Sony Sports    ########################################################
@@ -660,7 +660,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9DGEGou.png?v=1.0.0.1" group-title="Movies" tvg-id="AXN.id" tvg-name="AXN HD", AXN
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9DGEGou.png?v=1.0.0.1" group-title="Movies" tvg-id="AXN.id" tvg-name="AXN (HD)", AXN (HD)
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

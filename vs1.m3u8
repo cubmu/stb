@@ -839,6 +839,8 @@ http://khano.nng.cloudns.us/live/m3u8/fs/801a98b42276bac.m3u8
 http://khano.nng.cloudns.us/live/m3u8/fs/700a192f4d09364.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8X9FDe3.png?v=1.0.0.1" group-title="Fashion", Global Fashion Channel
 http://khano.nng.cloudns.us/live/m3u8/fs/364bfe25097b976.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/OsbTFpv.png?v=1.0.0.1" group-title="Fashion" tvg-id="ESAJ4500017Y1" tvg-name="Fashion TV L'Original, Fashion TV L'Original
+http://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 ########################################################               ########################################################
 

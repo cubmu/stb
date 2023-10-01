@@ -829,7 +829,7 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 #EXTINF:-1 tvg-ID="RTB" tvg-name="RTB" tvg-logo="https://i.postimg.cc/Hst0FDx5/AFFU23.jpg" group-title="Brunai",RTB HD
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 ########################################################    Fashion    ########################################################
 

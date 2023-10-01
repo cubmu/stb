@@ -100,14 +100,3 @@ https://www.bevy.be/bevyfiles/turkeypremium1.xml
 unitedstatespremium4.xml
 https://www.bevy.be/bevyfiles/unitedstatespremium4.xml
 
-indihometv.com.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/indihometv.com.xml
-
-useetv.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/useetv.xml
-
-vidio.com.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/vidio.com.xml
-
-visionplus.id.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/visionplus.id.xml

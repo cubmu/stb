@@ -478,7 +478,7 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
-#EXTINF:-1 tvg-id="818" tvg-logo="https://cdn4.mbahnunungonline.net/img/9b088eX.png?v=1.0.0.1" group-title="astro" tvg-name="beIN SPORTS (HD)",BeIN Sports FHD
+#EXTINF:-1 tvg-id="818" tvg-logo="https://cdn4.mbahnunungonline.net/img/9b088eX.png?v=1.0.0.1" group-title="Sports" tvg-name="beIN SPORTS (HD)",BeIN Sports FHD
 https://mhdtv.co.in/mhdtv-pro.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0

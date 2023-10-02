@@ -538,19 +538,19 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 ########################################################     Sony Sports    ########################################################
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN1.png" group-title="Sports", Sony TEN 1
+#EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN1.png" group-title="Sports", tvg-id="SONY Sport TEN 1" tvg-name="SONY SPORTS TEN 1" SONY Sport TEN 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN2.png" group-title="Sports", Sony TEN 2
+#EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN2.png" group-title="Sports" tvg-id="SONY Sport TEN 2" tvg-name="TSONY SPORTS TEN 2", SONY Sport TEN 2
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN3.png" group-title="Sports", Sony TEN 3
+#EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN3.png" group-title="Sports" tvg-id="SONY Sport TEN 3" tvg-name="SONY SPORTS TEN 3", SONY Sport TEN 3
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 
-#EXTINF: -1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN4.png" group-title="Sports", Sony TEN 4
+#EXTINF: -1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN4.png" group-title="Sports" tvg-id="SONY Sport TEN 4" tvg-name="SONY SPORTS TEN 4", SONY Sport TEN 4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN5.png" group-title="Sports", Sony TEN 5
+#EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN5.png" group-title="Sports" tvg-id="SONY Sport TEN 5" tvg-name="SONY SPORTS TEN 5", SONY Sport TEN 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 ########################################################   Knowledge   ########################################################
@@ -622,7 +622,7 @@ http://khano.nng.cloudns.us/live/m3u8/knl/dmax.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/3AVNfN0.png?v=1.0.0.1" group-title="Knowledge"-id="Discovery HD" tvg-name="Discovery HD", Discovery HD
 http://khano.nng.cloudns.us/live/m3u8/knl/DiscoveryHD.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dFmPXWJ.png?v=1.0.0.1" group-title="Knowledge" tvg-id="143" tvg-name="Sony BBC Earth HD", Sony BBC Earth HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dFmPXWJ.png?v=1.0.0.1" group-title="Knowledge" tvg-id="SONY BBC Earth" tvg-name="SONY BBC Earth HD", SONY BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
 ########################################################     Music     ########################################################
@@ -749,7 +749,7 @@ https://mhdtv.co.in/mhdtv-pro.php/http://linearjitp-playback.astro.com.my/dash-w
 https://mhdtv.co.in/mhdtv-pro.php/http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/KYBHBlD.png?v=1.0.0.1" group-title="Movies" tvg-id="SONY PIX" tvg-name="SONY PIX", SONY PIX
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/KYBHBlD.png?v=1.0.0.1" group-title="Movies" tvg-id="SONY PIX" tvg-name="SONY PIX", SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xB7jWnt.png?v=1.0.0.1" group-title="Movies" tvg-id="CitraBioskop" tvg-name="Citra Bioskop", Citra Bioskop

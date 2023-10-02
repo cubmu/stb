@@ -34,6 +34,9 @@ https://i.mjh.nz/SamsungTVPlus/in.xml
 australiaepg.xml
 https://i.mjh.nz/au/all/epg.xml
 
+nzauepg.xml
+https://i.mjh.nz/nzau/epg.xml
+
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
 

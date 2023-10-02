@@ -876,9 +876,9 @@ https://mhdtv.co.in/mhdtv-pro.php/https://linearjitp-playback.astro.com.my/dash-
 http://khano.nng.cloudns.us/live/m3u8/hnd/sonytv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/36Sd3Rt.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Sony Max" tvg-name="Sony Max", Sony Max
 http://khano.nng.cloudns.us/live/m3u8/hnd/sonymax.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_MAX.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="SonyMaxHD" tvg-name="Sony Max HD", Sony Max HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_MAX.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="SonyMaxHD" tvg-name="SONY MAX HD", Sony Max HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_MAX2.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Sony MAX2" tvg-name="Sony MAX2", Sony MAX2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_MAX2.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Sony MAX 2" tvg-name="Sony MAX 2", SONY MAX 2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/4L7BYKM.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="&amp;pictures HD" tvg-name="&amp;pictures HD", &pictures HD
 http://khano.nng.cloudns.us/live/m3u8/hnd/andpictureshd.m3u8
@@ -886,7 +886,7 @@ http://khano.nng.cloudns.us/live/m3u8/hnd/andpictureshd.m3u8
 http://khano.nng.cloudns.us/live/m3u8/hnd/zeetvhd.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Akf09tQ.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Zee Bollywood" tvg-name="Zee Bollywood", Zee Bollywood
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/zeebollywood.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RArAA1PLfXc/Yazhuq-x75I/AAAAAAAABhM/ZEAGZgIIB7Ubho7CbkfsFXOEkeZNqWJGACNcBGAsYHQ/s0/gSsIODC.png?v=1.0.0.1" group-title="🇮🇳 Hindi", Zee Cinema
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RArAA1PLfXc/Yazhuq-x75I/AAAAAAAABhM/ZEAGZgIIB7Ubho7CbkfsFXOEkeZNqWJGACNcBGAsYHQ/s0/gSsIODC.png?v=1.0.0.1" group-title="🇮🇳 Hindi", Zee Cinema HD
 http://khano.nng.cloudns.us/live/m3u8/hnd/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/2UQNzYB.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Zing" tvg-name="Zing", Zing
 http://khano.nng.cloudns.us/live/m3u8/hnd/zing.m3u8

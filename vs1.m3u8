@@ -571,16 +571,12 @@ http://khano.nng.cloudns.us/live/m3u8/knl/discoveryasia.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DiscoveryChannel" tvg-name="Discovery Ch (HD)", Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DiscoveryChannel" tvg-name="Discovery Ch (HD)", Discovery Ch (HD)
 https://mhdtv.co.in/mhdtv-pro.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/P9yiTz6.png?v=1.0.0.1" group-title="Knowledge" tvg-id="NationalGeographicWild.id" tvg-name="National Geographic Wild", National Geographic Wild
 https://myzee5.xyz/toffee/playlist.php?https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ngc_wild_576/ngc_wild_576.m3u8?bitrate=1000000&channel=ngc_wild_576&gp_id=
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/x0XijCu.png?v=1.0.0.1" group-title="Knowledge" tvg-id="NationalGeographicChannel.id" tvg-name="National Geographic", National Geographic
 #https://myzee5.xyz/toffee/playlist.php?https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ngc_sd_320/ngc_sd_320.m3u8?bitrate=768000&channel=ngc_sd_320&gp_id=
 https://myzee5.xyz/toffee/playlist.php?https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ngc_sd_576/ngc_sd_576.m3u8?bitrate=1000000&channel=ngc_sd_576&gp_id=

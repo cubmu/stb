@@ -853,7 +853,7 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 
 #EXTINF:-1 tvg-ID="RTB" tvg-name="RTB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" group-title="Brunai", RTB Aneka HD
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-#EXTINF:-1 tvg-ID="RTB" tvg-name="RTB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Brunai", RTB HD
+#EXTINF:-1 tvg-ID="RTB" tvg-name="RTB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Brunai", RTB Sukmaindera HD 
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 ########################################################    Fashion    ########################################################

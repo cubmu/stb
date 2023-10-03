@@ -759,7 +759,7 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 ########################################################     Hindi     ########################################################
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/yvfUpGV.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="ZeeBioskop.in" tvg-name="Zee Bioskop", Zee Bioskop
-http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/index.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/eea032203b3ce31.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sgCmp9R.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Sony Entertainment Television" tvg-name="Sony Entertainment Television", Sony Entertainment Television
 http://khano.nng.cloudns.us/live/m3u8/hnd/sonytv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/36Sd3Rt.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Sony Max" tvg-name="Sony Max", Sony Max

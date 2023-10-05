@@ -185,8 +185,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/bKLoSVx.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="JTV.id" tvg-name="JTV", JTV
-#http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c6.m3u8
-http://63b2dc7196c38.streamlock.net:1935/ch2/myStream/playlist.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c5.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3

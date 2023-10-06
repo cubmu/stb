@@ -638,7 +638,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/zg4YPTD.png?v=1.0.0.1" group-title="Music" tvg-id="Maleo Channel" tvg-name="Maleo Channel", Maleo Channel
-https://warningfm.github.io/streams/live/m3u8/ytb/nagaswaradensdut.m3u8
+https://raw.githubusercontent.com/warningfm/utubeLive/main/nagaswarafmbgr.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/NN60Hzb.png?v=1.0.0.1" group-title="Music" tvg-id="POP Musik" tvg-name="POP Musik", POP Musik
 #https://s7.mbahnunungonline.net/live/m3u8/id/94a637fadb57201.m3u8

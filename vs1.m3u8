@@ -532,7 +532,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN1.png" group-title="Sports" tvg-id="SONY Sport TEN 1" tvg-name="SONY SPORTS TEN 1", SONY Sport TEN 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN2.png" group-title="Sports" tvg-id="SONY Sport TEN 2" tvg-name="TSONY SPORTS TEN 2", SONY Sport TEN 2
+#EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN2.png" group-title="Sports" tvg-id="SONY SPORTS TEN 2 HD" tvg-name="SONY SPORTS TEN 2 HD", SONY Sport TEN 2
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN3.png" group-title="Sports" tvg-id="SONY Sport TEN 3" tvg-name="SONY SPORTS TEN 3", SONY Sport TEN 3

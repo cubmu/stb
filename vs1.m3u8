@@ -529,19 +529,19 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 ########################################################     Sony Sports    ########################################################
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN1.png" group-title="Sports" tvg-id="SONY Sport TEN 1" tvg-name="SONY SPORTS TEN 1", SONY Sport TEN 1
+#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/eytC2sS.png?v=1.1.1.1" group-title="Sports" tvg-id="SONY Sport TEN 1" tvg-name="SONY SPORTS TEN 1", SONY Sport TEN 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN2.png" group-title="Sports" tvg-id="SONY SPORTS TEN 2 HD" tvg-name="SONY SPORTS TEN 2 HD", SONY Sport TEN 2
+#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/dq2vacS.png?v=1.1.1.1" group-title="Sports" tvg-id="SONY SPORTS TEN 2 HD" tvg-name="SONY SPORTS TEN 2 HD", SONY Sport TEN 2
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN3.png" group-title="Sports" tvg-id="SONY Sport TEN 3" tvg-name="SONY SPORTS TEN 3", SONY Sport TEN 3
+#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/k5vXcl8.png?v=1.1.1.1" group-title="Sports" tvg-id="SONY Sport TEN 3" tvg-name="SONY SPORTS TEN 3", SONY Sport TEN 3
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 
-#EXTINF: -1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN4.png" group-title="Sports" tvg-id="SONY Sport TEN 4" tvg-name="SONY SPORTS TEN 4", SONY Sport TEN 4
+#EXTINF: -1 tvg-id="143" tvg-logo="https://i.imgur.com/FbkJREm.png?v=1.1.1.1" group-title="Sports" tvg-id="SONY Sport TEN 4" tvg-name="SONY SPORTS TEN 4", SONY Sport TEN 4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/Sony_TEN5.png" group-title="Sports" tvg-id="SONY Sport TEN 5" tvg-name="SONY SPORTS TEN 5", SONY Sport TEN 5
+#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/JC1ZGPu.png?v=1.1.1.1" group-title="Sports" tvg-id="SONY Sport TEN 5" tvg-name="SONY SPORTS TEN 5", SONY Sport TEN 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 ########################################################   Knowledge   ########################################################
@@ -600,7 +600,7 @@ http://khano.nng.cloudns.us/live/m3u8/knl/smithsonianaus.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AiXXYZK.png?v=1.0.0.1" group-title="Knowledge" tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="National Geographic Abu Dhabi", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/mupvUdD.png?v=1.0.0.1" group-title="Knowledge"-id="Discovery HD" tvg-name="Discovery HD", Discovery HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/R2tdCvT.png?v=1.0.0.1" group-title="Knowledge"-id="Discovery HD" tvg-name="Discovery HD", Discovery HD
 http://khano.nng.cloudns.us/live/m3u8/knl/DiscoveryHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NFu6IF2.png?v=1.0.0.1" group-title="Knowledge" tvg-id="5258" tvg-name="DMAX (HD)", DMAX

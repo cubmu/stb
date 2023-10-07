@@ -605,7 +605,7 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/mupvUdD.png?v=1.0.0.1" group-title="Knowledge"-id="Discovery HD" tvg-name="Discovery HD", Discovery HD
 http://khano.nng.cloudns.us/live/m3u8/knl/DiscoveryHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NFu6IF2.png?v=1.0.0.1" group-title="Knowledge" tvg-id="5258" tvg-name="DMAX (HD)", DMAX (HD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NFu6IF2.png?v=1.0.0.1" group-title="Knowledge" tvg-id="5258" tvg-name="DMAX (HD)", DMAX
 http://khano.nng.cloudns.us/live/m3u8/knl/dmax.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

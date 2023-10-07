@@ -475,13 +475,11 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 #EXTINF:-1 tvg-id="818" tvg-logo="https://cdn4.mbahnunungonline.net/img/9b088eX.png?v=1.0.0.1" group-title="Sports" tvg-name="beIN SPORTS (HD)",BeIN Sports FHD
 https://mhdtv.co.in/mhdtv-pro.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sy3NbII.png?v=1.0.0.1" group-title="Sports" tvg-id="6127" tvg-name="beIN SPORTS 2 (HD)", beIN Sports 2 HD
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-040/stream.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/nG5sNMv.png?v=1.0.0.1" group-title="Sports" tvg-id="6110" tvg-name="beIN SPORTS 3 (HD)", beIN Sports 3 HD
@@ -494,12 +492,12 @@ http://khano.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/zfcBrM4.png?v=1.0.0.1" group-title="Sports" tvg-id="SPOTV.id" tvg-name="SPOTV", SPOTV
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+http://khano.nng.cloudns.us/live/m3u8/sprt/e1455ce9a0e857a.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/wDbt2cl.png?v=1.0.0.1" group-title="Sports" tvg-id="SPOTV2.id" tvg-name="SPOTV2", SPOTV2
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+http://khano.nng.cloudns.us/live/m3u8/sprt/3b5901d4c8158d3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3

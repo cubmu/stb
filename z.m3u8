@@ -143,7 +143,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/2224e34a782179c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJE1tDf.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" tvg-id="AswajaTV.id" tvg-name="AswajaTV", AswajaTV
-https://raw.githubusercontent.com/warningfm/dailymotion/main/AswajaTV.m3u
+https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XF1c2OB.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" tvg-id="Citra Entertainment" tvg-name="Citra Entertainment", Citra Entertainment
 http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8

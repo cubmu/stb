@@ -519,7 +519,7 @@ https://m3.ballnaja.com/live/assp1/playlist.m3u8
 https://m3.ballnaja.com/live/assp2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YZOyBDN.png?v=1.1.1.1" group-title="Sports" tvg-id="unifiSports1.my" tvg-name="unifi Sports 1", unifi Sports 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCzqP4i.png?v=1.1.1.1" group-title="Sports" tvg-id="5118" tvg-name="Premier Sports", Premier Sports
 http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/index.m3u8

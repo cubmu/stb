@@ -869,7 +869,9 @@ http://khano.nng.cloudns.us/live/m3u8/fs/364bfe25097b976.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/pnhzRFh.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Kaloopy TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjgoROa.jpg?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Jenny Live
-https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
+https://5ee7c2b857b7f.streamlock.net/jennylive/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://miamitvhd.com/images/logo-miamitv.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", MIAMI TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/zzja5enf-480.jpg?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Naked News 2020
 https://content.jwplatform.com/manifests/Z9pDgB08.m3u8
 

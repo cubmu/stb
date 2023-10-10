@@ -597,6 +597,9 @@ http://khano.nng.cloudns.us/live/m3u8/knl/smithsonianaus.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AiXXYZK.png?v=1.0.0.1" group-title="Knowledge" tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="National Geographic Abu Dhabi", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fgO3tyz.png?v=1.0.0.1" group-title="Knowledge" tvg-id="INBC1500011RN" tvg-name="Discovery Science", Discovery Science
+http://khano.nng.cloudns.us/live/m3u8/knl/52a5a986362e674.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/R2tdCvT.png?v=1.0.0.1" group-title="Knowledge"-id="Discovery HD" tvg-name="Discovery HD", Discovery HD
 http://khano.nng.cloudns.us/live/m3u8/knl/adb3ea162365d59.m3u8
 

@@ -513,7 +513,7 @@ https://mhdtv.co.in/mhdtv-pro.php/https://linearjitp-playback.astro.com.my/dash-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.0.0.1" group-title="Sports" tvg-id="1003 tvg-name="Golf Channel", Golf Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.0.0.1" group-title="Sports" tvg-id="GolfChannel" tvg-name="Golf Channel HD", Golf Channel
 https://mhdtv.co.in/mhdtv-pro.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36

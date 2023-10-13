@@ -246,7 +246,7 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 http://khano.nng.cloudns.us/live/m3u8/int/0c913970f4e013e.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2RySrJl.png?v=1.0.0.1" group-title="Entertainment" tvg-id="5555" tvg-name="CCTV-4 (HD)",CCTV-4
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2RySrJl.png?v=1.0.0.1" group-title="Entertainment" tvg-id="5555" tvg-name="CCTV-4 (HD)", CCTV4 HD
 http://khano.nng.cloudns.us/live/m3u8/int/b0e5bb72ae995c6.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36

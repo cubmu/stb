@@ -2,7 +2,7 @@ AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
 indonesia.xml
-https://www.bevy.be/bevyfiles/indonesia.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 
 indonesiapremium1.xml
 https://www.bevy.be/bevyfiles/indonesiapremium1.xml
@@ -67,6 +67,9 @@ https://www.bevy.be/bevyfiles/unitedkingdom.xml
 unitedstatespremium1.xml
 https://www.bevy.be/bevyfiles/unitedstatespremium1.xml
 
+useetv.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/useetv.xml
+
 turkey.xml
 https://www.bevy.be/bevyfiles/turkey.xml
 
@@ -75,9 +78,6 @@ https://www.bevy.be/bevyfiles/turkeypremium1.xml
 
 unitedstatespremium4.xml
 https://www.bevy.be/bevyfiles/unitedstatespremium4.xml
-
-useetv.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/useetv.xml
 
 china.xml
 https://www.bevy.be/bevyfiles/china.xml
@@ -108,4 +108,3 @@ https://www.bevy.be/bevyfiles/turkeypremium1.xml
 
 unitedstatespremium4.xml
 https://www.bevy.be/bevyfiles/unitedstatespremium4.xml
-

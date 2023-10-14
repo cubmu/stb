@@ -213,7 +213,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EYJ0ED2.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="JakartaGlobeNews.id" tvg-name="Jakarta Globe News Channel", Jakarta Globe News Channel
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9i6ufQh.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="ElshintaTV" tvg-name="Elshinta TV", Elshinta TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9i6ufQh.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="ElshintaTV.id" tvg-name="Elshinta TV", Elshinta TV
 http://khano.nng.cloudns.us/live/m3u8/id/383fb71f4a76ab2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/DATJMK7.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="JawaposTV" tvg-name="Jawapos TV", Jawapos TV

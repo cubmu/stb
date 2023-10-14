@@ -597,12 +597,6 @@ http://khano.nng.cloudns.us/live/m3u8/knl/discoveryasia.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DiscoveryChannel" tvg-name="Discovery Ch (HD)", Discovery Ch (HD)
 http://khano.nng.cloudns.us/live/m3u8/knl/discoverychannel.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/P9yiTz6.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild HD", Nat Geo Wild HD
-https://myzee5.xyz/toffee/playlist.php?https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ngc_wild_576/ngc_wild_576.m3u8?bitrate=1000000&channel=ngc_wild_576&gp_id=
-
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/x0XijCu.png?v=1.0.0.1" group-title="Knowledge" tvg-id="National Geographic HD" tvg-name="National Geographic HD", National Geographic HD
-https://myzee5.xyz/toffee/playlist.php?https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ngc_sd_576/ngc_sd_576.m3u8?bitrate=1000000&channel=ngc_sd_576&gp_id=
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -615,8 +609,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9Z7DUFb.png?v=1.0.0.1" group-title="Knowledge" tvg-id="CrimeInvestigation.id" tvg-name="Crime & Investigation HD", Crime Investigation
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/eohcpWr.png?v=1.0.0.1" group-title="Knowledge" tvg-id="CGTNDocumentary.cn" tvg-name="CGTN-Documentary", CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 

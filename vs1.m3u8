@@ -636,7 +636,7 @@ http://khano.nng.cloudns.us/live/m3u8/knl/52a5a986362e674.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/R2tdCvT.png?v=1.0.0.1" group-title="Knowledge"-id="Discovery HD" tvg-name="Discovery HD", Discovery HD
 http://khano.nng.cloudns.us/live/m3u8/knl/adb3ea162365d59.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NFu6IF2.png?v=1.0.0.1" group-title="Knowledge" tvg-id="5258" tvg-name="DMAX (HD)", DMAX (HD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NFu6IF2.png?v=1.0.0.1" group-title="Knowledge" tvg-id="5258" tvg-name="DMAX (HD)", DMAX HD
 http://khano.nng.cloudns.us/live/m3u8/knl/d480329bd1d2d8f.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

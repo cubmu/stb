@@ -131,8 +131,7 @@ https://mhdtv.co.in/mhdtv-pro.php/http://linearjitp-playback.astro.com.my/dash-w
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xnK3XBL.png?v=1.0.0.1" group-title="Kids" tvg-id="5464" tvg-name="BabyTV (HD)", BabyTV
-#http://warningfm.github.io/utubeLive/nosignal/index.m3u8
-https://tvs1.aynaott.com/babytv/tracks-v1a1/mono.m3u8?hdnts=st=1697269005~exp=1697312205~acl=/*~data=45.61.146.183-WEB~hmac=aa6e2e9f073aa5a1bf542838cf0e2d6c64cd67750a371c5e9fe2e4b4f61e0852
+http://warningfm.github.io/utubeLive/nosignal/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

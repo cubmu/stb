@@ -29,7 +29,8 @@ http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Dw3SKHg.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="6" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
-http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccb.m3u8
+#http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccb.m3u8
+http://al.nng.cloudns.us/MetroTV/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

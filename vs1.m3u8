@@ -368,7 +368,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ZJXotBY.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="5256" tvg-name="AFN (HD)", Asian Food Network HD
-https://1.yurend.xyz/dash-wv/linear/500/default.mpd
+https://cors-anywhere.azm.workers.dev/http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/3GcxMUu.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="5250" tvg-name="HGTV (HD)", HGTV (HD)

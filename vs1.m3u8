@@ -142,8 +142,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/OrEXAse.png?v=1.0.0.1" group-title="Kids" tvg-id="5226" tvg-name="Cartoon Network (HD)", Cartoon Network (HD)
 http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fSAArko.png?v=1.0.0.1" group-title="Kids" tvg-id="DreamWorksChannelAsia.us" tvg-name="DreamWorks", DreamWorks
-http://khano.nng.cloudns.us/live/m3u8/Kids/7e5676155536bd5.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

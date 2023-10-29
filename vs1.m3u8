@@ -610,10 +610,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dFmPXWJ.png?v=1.0.0.1" group-title="Knowledge" tvg-id="SONY BBC Earth" tvg-name="SONY BBC Earth HD", SONY BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/WVpnAKn.png?v=1.0.0.1" group-title="Knowledge" tvg-id="5204" tvg-name="Discovery Asia (HD)", Discovery Asia
-http://103.152.118.53/play/channels/efemeks/diskaveriasia.m3u8
+https://1.yurend.xyz/dash-wv/linear/501/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi

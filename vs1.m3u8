@@ -175,13 +175,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xXz1Lht.png?v=1.0.0.1" group-title="Kids" tvg-id="5228" tvg-name="Cartoonito (HD)", Cartoonito (HD)
-http://khano.nng.cloudns.us/live/m3u8/Kids/86555c60e79d125.m3u8
+#http://khano.nng.cloudns.us/live/m3u8/Kids/86555c60e79d125.m3u8
+http://khano.nng.cloudns.us/live/m3u8/op/7335edf66aba710.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn4.mbahnunungonline.net/img/DOpFSTU.png?v=1.0.0.1" group-title="Kids" tvg-id="MoonbugKids.us" tvg-name="Moonbug Kids", Moonbug Kids
 http://khano.nng.cloudns.us/live/m3u8/Kids/c36fa382a5bf123.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/SNzeDbZ.png?v=1.0.0.1" group-title="Kids" tvg-id="Horee.id" tvg-name="Horee", Horee
-http://khano.nng.cloudns.us/live/m3u8/Kids/131c24b951b60d5.m3u8
+#http://khano.nng.cloudns.us/live/m3u8/Kids/131c24b951b60d5.m3u8
+http://khano.nng.cloudns.us/live/m3u8/op/7335edf66aba710.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/GIjpZ3Q.png?v=1.0.0.1" group-title="Kids" tvg-id="IndiKids.id" tvg-name="Indikids", Indikids
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
@@ -254,7 +256,8 @@ http://khano.nng.cloudns.us/live/m3u8/int/b0e5bb72ae995c6.m3u8
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aKZ7opS.png?v=1.0.0.1" group-title="Entertainment" tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Learning", Da Vinci Learning
-http://khano.nng.cloudns.us/live/m3u8/int/bcc43de11a0e1b3.m3u8
+#http://khano.nng.cloudns.us/live/m3u8/int/bcc43de11a0e1b3.m3u8
+http://khano.nng.cloudns.us/live/m3u8/op/7335edf66aba710.m3u8
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

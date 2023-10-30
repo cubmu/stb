@@ -212,9 +212,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/829dbdfe0b57013.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XBtbPBF.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="TVRI.id" tvg-name="TVRI Jawa Timur", TVRI Jawa Timur
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EYJ0ED2.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="JakartaGlobeNews.id" tvg-name="Jakarta Globe News Channel", Jakarta Globe News Channel
-http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9i6ufQh.png?v=1.0.0.1" group-title="🇮🇩 Local" tvg-id="ElshintaTV.id" tvg-name="Elshinta TV", Elshinta TV
 http://khano.nng.cloudns.us/live/m3u8/id/383fb71f4a76ab2.m3u8
 
@@ -256,14 +253,12 @@ http://khano.nng.cloudns.us/live/m3u8/int/b0e5bb72ae995c6.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Ftk2ky0.png?v=1.0.0.1" group-title="Entertainment" tvg-id="5519" tvg-name="GEM (HD)", GEM HD
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aKZ7opS.png?v=1.0.0.1" group-title="Entertainment" tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Learning", Da Vinci Learning
 http://khano.nng.cloudns.us/live/m3u8/int/bcc43de11a0e1b3.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/p1a0RwN.png?v=1.0.0.1" group-title="Entertainment" tvg-id="ROCKEntertainment.id" tvg-name="Rock Entertainment", Rock Entertainment
 https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
@@ -310,14 +305,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jzE4Vfd.png?v=1.0.0.1" group-title="Entertainment" tvg-id="VisionPrime.id" tvg-name="Vision Prime HD - [Channel 1].id", Vision Prime
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/CM09dsr.png?v=1.0.0.1" group-title="Entertainment" tvg-id="5610" tvg-name=">Citra Drama (HD)", Citra Drama
-http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b837.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XF1c2OB.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Citra Entertainment" tvg-name="Citra Entertainment", Citra Entertainment
-http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eXelOvO.png?v=1.0.0.1" group-title="Entertainment" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana TV", Indonesiana TV

@@ -158,7 +158,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mp
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uwhVKtr.png?v=1.0.0.1" group-title="Kids" tvg-id="KidsTV.id" tvg-name="Kids TV", Kids TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uwhVKtr.png?v=1.0.0.1" group-title="Kids" tvg-id="KidsTV.id" tvg-name="Kids TV - [Channel 46].id", Kids TV
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id

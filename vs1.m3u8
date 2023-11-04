@@ -1003,3 +1003,8 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/8120_stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 #EXTINF:-1 group-title="Tes" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png", KPLUS (My)
 https://1.yurend.xyz/dash-wv/linear/9983/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Tes",INDOSIAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
+https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest.mpd

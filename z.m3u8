@@ -57,7 +57,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hwBnVIB.jpg?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="11" tvg-id="Nagaswara Digital" tvg-name="Nagaswara Digital", Nagaswara Digital
 https://warningfm.github.io/utubeLive/nagaswarafmbgr.m3u8
-#https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -242,7 +241,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXz1Lht.png?v=1.0.0.1" group-title="Kids" tvg-id="BoomerangAsia.sg" tvg-name="Boomerang", Boomerang
-http://khano.nng.cloudns.us/live/m3u8/Kids/86555c60e79d125.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm

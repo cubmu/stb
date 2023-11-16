@@ -37,11 +37,10 @@ https://mangga-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AySErC1.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="8" tvg-id="TransTV.id" tvg-name="Trans TV", TransTV
 https://mangga-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/kkQGC04.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="9" tvg-id="GTV.id" tvg-name="GTV - [Channel 81].id", GTV
-https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Inb69eO.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="10" tvg-id="tvOne.id" tvg-name="TVOne", TVOne
@@ -59,11 +58,10 @@ http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9lJJAEK.png?v=1.1.1.1" group-title="🇮🇩 Nasional" ch-number="13" tvg-id="KompasTV.id" tvg-name="Kompas TV", Kompas TV
 http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/M7OFrvF.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="14" tvg-id="iNews.id" tvg-name="iNews", iNews
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Ax67v0u.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="15" tvg-id="TVRINasional.id" tvg-name="TVRI", TVRI Nasional
@@ -124,10 +122,9 @@ http://warningfm.github.io/utubeLive/nosignal/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Dy7OlLF.png?v=1.0.0.1" group-title="Kids" tvg-id="6236" tvg-name="CBeebies (HD)", CBeebies (HD)
-https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/OrEXAse.png?v=1.0.0.1" group-title="Kids" tvg-id="5226" tvg-name="Cartoon Network (HD)", Cartoon Network (HD)
-#http://khano.nng.cloudns.us/live/m3u8/Kids/20e3acedb66331e.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -167,8 +164,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xXz1Lht.png?v=1.0.0.1" group-title="Kids" tvg-id="5228" tvg-name="Cartoonito (HD)", Cartoonito (HD)
-#http://khano.nng.cloudns.us/live/m3u8/Kids/86555c60e79d125.m3u8
-http://khano.nng.cloudns.us/live/m3u8/op/7335edf66aba710.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn4.mbahnunungonline.net/img/DOpFSTU.png?v=1.0.0.1" group-title="Kids" tvg-id="MoonbugKids.us" tvg-name="Moonbug Kids", Moonbug Kids
 http://khano.nng.cloudns.us/live/m3u8/Kids/c36fa382a5bf123.m3u8
@@ -247,7 +243,6 @@ http://khano.nng.cloudns.us/live/m3u8/int/b0e5bb72ae995c6.m3u8
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aKZ7opS.png?v=1.0.0.1" group-title="Entertainment" tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Learning", Da Vinci Learning
-#http://khano.nng.cloudns.us/live/m3u8/int/bcc43de11a0e1b3.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://visionplus.id

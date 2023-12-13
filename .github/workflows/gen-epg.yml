@@ -20,8 +20,8 @@ jobs:
       - name: config
         run: |
           git pull
-          git config --global user.email "warningfm@gmail.com"
-          git config --global user.name "warningfm"
+          git config --global user.email "cubmutrans@gmail.com"
+          git config --global user.name "cubmutrans"
       - name: generate
         run: |
           cd epg/scripts
